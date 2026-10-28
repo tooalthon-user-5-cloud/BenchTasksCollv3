@@ -1,1 +1,5 @@
-Copy of fan-dev/discount-calculator docs/task.md
+# Task: discount-calculator
+
+## Description
+Complete the implementation for discount-calculator
+

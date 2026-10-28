@@ -1,1 +1,2 @@
-Copy of fan-dev/discount-calculator preprocess/main.py
+# Preprocessing script
+print('Preprocessing completed')
